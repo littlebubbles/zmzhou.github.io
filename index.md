@@ -166,7 +166,7 @@ Welcome to my webpage! My name is Zhimin Zhou and I'm an associate professor in 
 								</header>
 
 								<p>
-									ec2250 at gmail dot com
+									zmzhou at nao dot cas dot cn
 								</p>
 
 
